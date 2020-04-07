@@ -1,0 +1,7 @@
+Welcome to the Quiz,
+
+1. Please start the XAMPP mysql and apache server before starting this project.
+2. Load it onto the web page using the file named as "q1_START.php".
+3. Use the local host start the first PHP file.
+
+Thank you.
